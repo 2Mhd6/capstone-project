@@ -1,0 +1,61 @@
+{
+  "log_in_screen": {
+    "login": "Log in",
+    "email": "Email",
+    "password": "Password",
+    "log_in": "Log in",
+    "send": "Send",
+    "valid_email": "Enter a valid email address",
+    "valid_password": "Password must be at least 6 characters",
+    "invalid_credentials": "Invalid email or password",
+    "login_success": "Login successful",
+    "driver_not_found": "Driver profile not found",
+    "reset_password_instructions": "You will receive a password reset email if this address is registered.",
+    "reset_link_sent": "Reset link sent. Check your email.",
+    "reset_error": "An error occurred while sending the reset link."
+  },
+
+  "driver_screen": {
+  "call": "Call",
+  "message": "Message",
+  "start_ride": "Start Ride",
+  "complete_trip": "Complete Trip",
+  "no_ride": "You currently have no ride request.\nWait a moment!",
+  "hello": "Hello, {name}!"
+},
+
+  "date": {
+    "not_set": "Date not set"
+  },
+  "time": {
+    "not_set": "Time not set",
+    "am": "AM",
+    "pm": "PM"
+  },
+  "days": {
+    "mon": "Mon",
+    "tue": "Tue",
+    "wed": "Wed",
+    "thu": "Thu",
+    "fri": "Fri",
+    "sat": "Sat",
+    "sun": "Sun"
+  },
+  "months": {
+    "jan": "Jan",
+    "feb": "Feb",
+    "mar": "Mar",
+    "apr": "Apr",
+    "may": "May",
+    "jun": "Jun",
+    "jul": "Jul",
+    "aug": "Aug",
+    "sep": "Sep",
+    "oct": "Oct",
+    "nov": "Nov",
+    "dec": "Dec"
+  }
+}
+
+
+
