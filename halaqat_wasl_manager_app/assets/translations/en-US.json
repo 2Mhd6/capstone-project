@@ -1,0 +1,107 @@
+{
+    "login_screen": {
+        "login_title": "Log in",
+        "email": "Email",
+        "password": "Password",
+        "forget_password": "Forget password?",
+        "don't_have_an_account": "Don't have an account? ",
+        "onboarding_text": "Every ride you provide is a step toward healing and hope.",
+        "login": "Log in",
+        "sign_up": "Sign Up",
+        "already_have_an_account": "Do you have an account already? "
+    },
+
+    "sign_up_screen": {
+        "sign_up_title": "Sign up",
+        "charity_name": "Charity Name",
+        "email": "Email",
+        "password": "Password",
+        "phone_number": "Phone Number",
+        "charity_license": "Charity License",
+        "confirmation_message":"To confirm your account you need to contact us with this email {}",
+        "onboarding_text": "Every ride you provide is a step toward healing and hope.",
+        "already_have_an_account": "Do you have an account already? ",
+        "sign_up": "Sign Up",
+        "login": "Log in"
+    },
+    "home_screen": {
+        "welcome": "Welcome {}",
+        "admin_name": "admin_name",
+        "total_services": "Total services",
+        "forget_password": "Forget password?",
+        "total_complaints": "Total Complaints",
+        "active_complaints": "Active Complaints",
+        "requests": "Requests",
+        "drivers": "Drivers",
+        "complaints": "Complaints",
+        "view_all": "View All",
+        "pending": "Pending",
+        "completed": "Completed",
+        "canceled": "Canceled",
+        "available": "Available",
+        "on_trip" : "On Trip",
+        "response": "Response",
+        "ride":"ride",
+        "rides": "rides",
+        "assign_driver": "Assign Driver",
+        "add_driver": "Add Driver",
+        "response_complaint": "Response Complaint",
+        "req_status": "Request Status"
+    },
+    "add_driver_dialog_home_screen": {
+        "add_driver_title": "Add New Driver",
+        "full_name": "Full Name",
+        "email":"Email",
+        "phone_number": "Phone Number",
+        "add_driver": "Add Driver"
+    },
+    "driver_dialog_home_screen": {
+        "drivers": "Drivers",
+        "search_driver": "Driver Phone Number...",
+        "name": "Name",
+        "overall_rating": "Overall Rating",
+        "total_services": "Total Services",
+        "phone_number": "Phone Number",
+        "active": "Active",
+        "inactive": "Inactive"
+    },
+    "edit_driver_dialog_home_screen": {
+        "add_driver_title": "Edit Driver",
+        "full_name": "Full Name",
+        "phone_number": "Phone Number",
+        "edit_driver": "Edit Driver"
+    },
+    "complaint_details_dialog_home_screen": {
+        "req_id": "Request_id",
+        "req_status": "request_status",
+        "driver": "Driver",
+        "patient": "Patient",
+        "patient’s_number": "Patient’s number",
+        "category": "Category",
+        "complaint": "Complaint",
+        "submit_response": "Submit Response",
+        "OK": "OK"
+    },
+    "request_history_dialog_home_screen": {
+        "request_history": "Request History",
+        "req_status": "request_status",
+        "search_number_request": "Request Number...",
+        "day": "Day"
+    },
+    "request_details_dialog_home_screen": {
+        "Request_Details": "Request Details",
+        "req_status": "request_status",
+        "Pick_up": "Pick up",
+        "Destination": "Destination",
+        "Special_Need": "Special Need",
+        "Select_driver": "Select a driver",
+        "Accept_Request": "Accept Request",
+        "OK": "OK"
+    },
+    "complaint_history_dialog": {
+        "complaint_history": "Complaint History",
+        "complaint_status": "complaint_status",
+        "search_number_request": "Request Number...",
+        "day": "Day"
+    }
+}
