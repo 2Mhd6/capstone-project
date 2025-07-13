@@ -85,23 +85,23 @@ A simple and accessible interface that allows clients to:
 ## App Flow
 
 <p align="center">
-  <img src="app_flow/1.png" width="80" alt="1" />
-  <img src="app_flow/2.png" width="80" alt="2" />
-  <img src="app_flow/3.png" width="80" alt="3" />
-  <img src="app_flow/4.png" width="80" alt="4" />
+  <img src="app_flow/1.png" width="200" alt="1" />
+  <img src="app_flow/2.png" width="200" alt="2" />
+  <img src="app_flow/3.png" width="200" alt="3" />
+  <img src="app_flow/4.png" width="200" alt="4" />
 </p>
 
 <p align="center">
-  <img src="app_flow/5.png" width="80" alt="5" />
-  <img src="app_flow/6.png" width="80" alt="6" />
-  <img src="app_flow/7.png" width="80" alt="7" />
-  <img src="app_flow/8.png" width="80" alt="8" />
+  <img src="app_flow/5.png" width="200" alt="5" />
+  <img src="app_flow/6.png" width="200" alt="6" />
+  <img src="app_flow/7.png" width="200" alt="7" />
+  <img src="app_flow/8.png" width="200" alt="8" />
 </p>
 
 <p align="center">
-  <img src="app_flow/9.png" width="80" alt="9" />
-  <img src="app_flow/10.png" width="80" alt="10" />
-  <img src="app_flow/11.png" width="80" alt="11" />
+  <img src="app_flow/9.png" width="200" alt="9" />
+  <img src="app_flow/10.png" width="200" alt="10" />
+  <img src="app_flow/11.png" width="200" alt="11" />
 </p>
 
 ---
@@ -122,5 +122,5 @@ A simple and accessible interface that allows clients to:
 - **[Mohammed S. Alshammari](https://www.linkedin.com/in/mohammedsalshammari/)**
 - **[Ameerah Aloufi](https://www.linkedin.com/in/ameerah-aloufi-95b58726a/)**
 - **[Abdulrahman Alsalem](https://www.linkedin.com/in/abdulrahman-alsalem-bbb5a3274/)**
-- **BushraAlzoman**
+- **Bushra Alzoman**
 
